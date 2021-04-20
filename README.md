@@ -37,9 +37,11 @@ I am currently doing Coding Bootcamp at Monash University. It has been my dream 
 <br>
 
 ## Stats
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KorolyovaLara&&theme=dark&ring=DFBE00&background=333162&stroke=FFFFFF&currStreakNum=EA521C&sideNums=BCB3E3&fire=EA521C&sideLabels=DFBE00&dates=BC6BFE&currStreakLabel=EA521C&border=FFFFFF" alt="korolyovalara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KorolyovaLara&&theme=dark&ring=DFBE00&background=333162&stroke=FFFFFF&currStreakNum=EA521C&sideNums=BCB3E3&fire=EA521C&sideLabels=DFBE00&dates=BC6BFE&currStreakLabel=EA521C&border=FFFFFF" alt="korolyovalara" /></p>
 <br>
-<p><img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=KorolyovaLara&show_icons=true&theme=shades-of-purple" /></p>
+
+<p><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=KorolyovaLara&show_icons=true&theme=shades-of-purple" /></p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorolyovaLara&layout=compact&theme=shades-of-purple" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorolyovaLara&layout=compact&theme=shades-of-purple" /></p>
 <br>
