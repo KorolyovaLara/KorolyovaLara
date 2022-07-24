@@ -8,8 +8,10 @@
 My name is Lara. I am Ukrainian, who is now Australian.
 I am passionate about IT, Web and Gaming and Marvel.
 
-I am currently doing Coding Bootcamp at Monash University. It has been my dream for many years to get my foot into IT and I am finally chasing my dream.
- - at the moment learning Node.Js
+In 2021 I finished the Coding Bootcamp at Monash University. It has been my dream for many years to get my foot into IT and I am finally chasing my 
+dream.
+The knowledge that I gained in Coding Bootcamp helped me get my recent job. I am not doing coding as my full-time job, but I help others with their e-
+commerce businesses. 
 
 <br>
 
